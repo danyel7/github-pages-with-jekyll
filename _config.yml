@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Practice
+author: AI
+email: hawe0022@umn.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+    If a coach says I miss practice, and y'all hear it, then that's that. I might've missed one practice this year,
+    but if somebody says 'He doesn't come to practice,'
+    it could be one practice out of all the practices this year, that's enough.
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: 1MiBn # DO NOT include the @ character, or else the build will fail!
+github_username:  danyel7 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
